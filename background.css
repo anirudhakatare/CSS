@@ -1,0 +1,11 @@
+#para{
+  background-color: rgb(60, 193, 238);
+  background-image: url("https://images.pexels.com/photos/11190467/pexels-photo-11190467.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  background-attachment: fixed;
+
+  border: 5px dotted black;
+  border-radius: 20px; }

@@ -2,3 +2,7 @@
     width: 50%;
     background-color: lightblue;
 }
+#div1{
+    width: calc(100% - 200px);
+    background-color: rgb(110, 190, 60);
+}

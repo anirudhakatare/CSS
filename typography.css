@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  background-color: rgb(12, 11, 12);
+}
+h1 {
+  font-size: 50px;
+  color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+p {
+  font-size: 23px;
+  color: white;
+  font-family: "open sans", sans-serif;
+  font-weight: 100;
+  font-style: oblique;
+  line-height: 1.2;
+  word-spacing: 1%;
+
+}
