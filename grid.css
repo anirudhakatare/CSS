@@ -1,0 +1,10 @@
+.container{
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 200px 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr ;
+}
+.box{
+    background-color: lightblue;
+    border: 2px solid green;
+}
