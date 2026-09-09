@@ -1,0 +1,15 @@
+*{background-color: rgb(22, 15, 4);
+}
+h1{
+   border: 2px solid rgb(241, 240, 240);
+   margin: 0 auto;
+   padding: 23px;
+   color: white;
+   background-color: rgb(142, 179, 42);
+}
+p{
+   border: 2px  solid rgb(245, 242, 242);
+   margin: 23px;
+   padding: 23px;
+   color: white;
+}
